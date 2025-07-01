@@ -23,8 +23,8 @@ const App = () => {
       phone: "+8801684214201",
       email: "mufradmustahsin152@gmail.com",
       location: "Dhaka, Bangladesh",
-      github: "https://github.com/your-github-profile", // Placeholder: Update with your actual GitHub profile
-      linkedin: "https://linkedin.com/in/your-linkedin-profile" // Placeholder: Update with your actual LinkedIn profile
+      github: "https://github.com/Mufrad6502", // Placeholder: Update with your actual GitHub profile
+      linkedin: "https://www.linkedin.com/in/mufrad-mustahsin-50b8ab1a5/" // Placeholder: Update with your actual LinkedIn profile
     },
     summary: "Experienced Software Quality Assurance Engineer skilled in both manual and automation testing with a solid background in working remotely for international teams. Proficient in using tools like Cypress, Postman, JMeter, and SQL for diverse testing needs. Recognized for excellent teamwork and communication abilities, and also has AI model testing experience, ensuring functionality, performance, and reliability of AI systems.",
     experience: [
