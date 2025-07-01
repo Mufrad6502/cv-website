@@ -326,7 +326,6 @@ const App = () => {
       {/* Footer */}
       <footer className="bg-gray-800 text-white p-6 text-center rounded-t-lg">
         <p>&copy; {new Date().getFullYear()} {cvData.name}. All rights reserved.</p>
-        <p className="text-sm mt-2">Designed with <i className="fas fa-heart text-red-500"></i> by Gemini</p>
       </footer>
 
       {/* Custom CSS for animations and font */}
