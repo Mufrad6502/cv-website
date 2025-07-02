@@ -94,10 +94,10 @@ const App = () => {
       phone: "+8801684214201",
       email: "mufradmustahsin152@gmail.com",
       location: "Dhaka, Bangladesh",
-      github: "https://github.com/Mufrad6502", // **UPDATE THIS!**
-      linkedin: "https://linkedin.com/in/your-linkedin-profile" // **UPDATE THIS!**
+      github: "https://github.com/Mufrad6502", 
+      linkedin: "https://www.linkedin.com/in/mufrad-mustahsin-50b8ab1a5/" 
     },
-    summary: "Experienced Software Quality Assurance Engineer skilled in both manual and automation testing with a solid background in working remotely for international teams. Proficient in using tools like Cypress, Postman, JMeter, and SQL for diverse testing needs. Recognized for excellent teamwork and communication abilities, and also has AI model testing experience, ensuring functionality, performance, and reliability of AI systems.",
+    summary: "Experienced Software Quality Assurance Engineer skilled in both manual and automation testing with a solid background in working remotely for international teams. Proficient in using tools like Playwright ,Cypress, Postman, JMeter, and SQL for diverse testing needs. Recognized for excellent teamwork and communication abilities, and also has AI model testing experience, ensuring functionality, performance, and reliability of AI systems.",
     experience: [
       {
         title: "Software Quality Assurance Engineer",
@@ -190,6 +190,18 @@ const App = () => {
           "Exploratory testing",
           "Ad hoc Testing",
           "Following agile development methodology."
+        ]
+      },
+      {
+        title: "Frontend Developer",
+        company: "Softwrd Ltd",
+        location: "Hybrid - Norway & Bangladesh",
+        duration: "08/2021 - 02/2022",
+        responsibilities: [
+          "Created Web pages with vanilla HTML, Javascript, and CSS",
+          "Framework using Tailwind CSS and Svelte",
+          "Optimized Frontend for performance, while ensuring that product specifications are met",
+          "Followed agile development methodology."
         ]
       }
     ],
